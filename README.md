@@ -5,5 +5,5 @@ Get Meta data from URL and display a preview like Facebook
 
 
 
-[Tutorial  target="_blank"](http://letshelloworld.blogspot.ca/2016/08/ionic-2-get-meta-data-from-url-and.html) 
+[Tutorial](http://letshelloworld.blogspot.ca/2016/08/ionic-2-get-meta-data-from-url-and.html) 
 
