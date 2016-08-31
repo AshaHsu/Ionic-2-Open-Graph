@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="home">
+
+  <ion-input [(ngModel)]="link" placeholder="paste the link here"></ion-input>
+ <button (click)="showPreview()"  id="loadOpenGraphData">Load OpenGraph Data</button>
+    <hr/>
+    <div>
+      <div style="width: 100px; float: left;">
+        <img id="icon" style="width: 90px;" />      
+      </div>
+      <div>
+        <h2 id="title"></h2>
+        <span id="description"></span>
+      </div>
+      <div> <h6 id="site"></h6></div>
+    </div>
+</ion-content>
